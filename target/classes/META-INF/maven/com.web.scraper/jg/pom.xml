@@ -3,4 +3,11 @@
   <groupId>com.web.scraper</groupId>
   <artifactId>jg</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+    	<groupId>com.microsoft.playwright</groupId>
+    	<artifactId>playwright</artifactId>
+    	<version>1.55.0</version>
+	</dependency>
+</dependencies>
 </project>
