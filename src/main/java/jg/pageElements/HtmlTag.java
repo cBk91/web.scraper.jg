@@ -1,12 +1,14 @@
 package jg.pageElements;
 
-public enum HttpTag {
-	
+public enum HtmlTag {
+	DIV("div"),
+	UL("ul"),
 	LI("li");
+	
 	
 	private String tag;
 
-	private HttpTag(String tag) {
+	private HtmlTag(String tag) {
 		this.tag = tag;
 	}
 

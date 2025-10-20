@@ -2,7 +2,13 @@ NA TEN MOMENT ITERUJE PO KATEGORIACH ALE SCOTT MA
 JESZCZE GLEBSZE KATEGORIE WIEC BEDZIE TRZEBA TU REKURENCYJNIE ZADZIALAC
 
 --update
--- DZIALA ALE DZIWNIE JUTRO SPRAWDZE
+-- DZIALA ALE DZIWNIE JUTRO SPRAWDZE 
+-- dobra juz czaje dodaje wszystkie ale to kiepskie rozwiazanie najlepiej zeby tylko po glownych klikal 
+chociaz jest opcja ze tak wszystkiego nie zbierze. jezeli ma zbierac konkretna glebokosc to moze
+uzyć do tego parametru data-depth z li menu
+-- dziala ten sposob wiec pewnie zrobie config cozbiera z motorexa i scota
+
+
 to jest log z iteracji
 Start iterate to get subcategories
 Iterate through: ADVENTURE / ON-ROAD
